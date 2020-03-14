@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from paver.setuputils import setup
 
 setup(name='assign1',
       description='assign1',

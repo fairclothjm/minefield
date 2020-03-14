@@ -1,3 +1,4 @@
+![Minefield](minefield.png?raw=true "Minefield")
 # minefield
 Minefield - a minesweeper clone built with pygame.
 

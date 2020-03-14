@@ -31,8 +31,6 @@ class Minesweeper:
                 if not self.adjacent_mine_count(row, col):
                     self.expose_neighbors_of(row, col)
 
-
-#Venkat: Use loops instead of series of if else
     def expose_neighbors_of(self, row, col):
         if row > 0 and col > 0:
             self.expose_cell(row - 1, col - 1)
@@ -51,7 +49,6 @@ class Minesweeper:
         if row > 0:
             self.expose_cell(row - 1, col)
 
-#Venkat: use loops
     def adjacent_mine_count(self, row, col):
         mine_count = 0
         if row > 0 and col > 0:
