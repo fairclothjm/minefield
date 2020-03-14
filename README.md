@@ -1,8 +1,10 @@
 # minefield
-Minefield - a minesweeper clone built with pygame.
+Minefield - a minesweeper clone built with [pygame](https://www.pygame.org/wiki/about).
 
-<img src="minefield1.png" alt="Minefield" width=300/>
-<img src="minefield2.png" alt="Minefield" width=300/>
+<div style="flex">
+<img src="minefield1.png" alt="Minefield" style="margin-left: 50px" width=300/>
+<img src="minefield2.png" alt="Minefield" style="margin-left: 50px" width=300/>
+</div>
 
 ## installation
 ``` bash
